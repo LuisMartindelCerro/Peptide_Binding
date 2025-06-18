@@ -39,7 +39,7 @@ epsilon = parser.EPSILON
 # In[2]:
 
 
-data_dir = "/Users/mblanco/Desktop/DTU/AlgorithmsInBioinf/data/"
+data_dir = "/Users/mblanco/Desktop/DTU/AlgorithmsInBioinf/code/Project/Peptide_Binding/Data/"
 
 
 # ### Training Data
@@ -47,7 +47,7 @@ data_dir = "/Users/mblanco/Desktop/DTU/AlgorithmsInBioinf/data/"
 # In[3]:
 
 
-training_file = data_dir + "SMM/A0201_training"
+training_file = data_dir + "A0101/f000"
 #training_file = data_dir + "SMM/A2403_training"
 
 training = np.loadtxt(training_file, dtype=str)
@@ -58,7 +58,7 @@ training = np.loadtxt(training_file, dtype=str)
 # In[4]:
 
 
-evaluation_file = data_dir + "SMM/A0201_evaluation"
+evaluation_file = data_dir + "A0101/c000"
 #evaluation_file = data_dir + "SMM/A2403_evaluation"
 evaluation = np.loadtxt(evaluation_file, dtype=str)
 
@@ -276,26 +276,26 @@ for e in range(0, epochs):
                 # gradient descent 
                 gradient_descent(y_pred, y_target, peptide, weights, lamb_N, eps)
 
-        # compute error
-        gerr, mse = cumulative_error(peptides, y, lamb, weights) 
-        gerror_plot.append(gerr)
-        mse_plot.append(mse)
-        
-        # predict on training data
-        train_pred = predict( peptides, weights )
-        train_mse = cal_mse( y, train_pred )
-        train_mse_plot.append(train_mse)
-        train_pcc = pearsonr( y, train_pred )
-        train_pcc_plot.append( train_pcc[0] )
-            
-        # predict on evaluation data
-        eval_pred = predict(evaluation_peptides, weights )
-        eval_mse = cal_mse(evaluation_targets, eval_pred )
-        eval_mse_plot.append(eval_mse)
-        eval_pcc = pearsonr(evaluation_targets, eval_pred)
-        eval_pcc_plot.append( eval_pcc[0] )
-        
-        print ("Epoch: ", e, "Gerr:", gerr, train_pcc[0], train_mse, eval_pcc[0], eval_mse)
+                # compute error
+                gerr, mse = cumulative_error(peptides, y, lamb, weights) 
+                gerror_plot.append(gerr)
+                mse_plot.append(mse)
+                
+                # predict on training data
+                train_pred = predict( peptides, weights )
+                train_mse = cal_mse( y, train_pred )
+                train_mse_plot.append(train_mse)
+                train_pcc = pearsonr( y, train_pred )
+                train_pcc_plot.append( train_pcc[0] )
+                    
+                # predict on evaluation data
+                eval_pred = predict(evaluation_peptides, weights )
+                eval_mse = cal_mse(evaluation_targets, eval_pred )
+                eval_mse_plot.append(eval_mse)
+                eval_pcc = pearsonr(evaluation_targets, eval_pred)
+                eval_pcc_plot.append( eval_pcc[0] )
+                
+                print ("Epoch: ", e, "Gerr:", gerr, train_pcc[0], train_mse, eval_pcc[0], eval_mse)
 
 
 # ## Error Plot
