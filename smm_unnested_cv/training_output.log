@@ -1,0 +1,247 @@
+A0101 lambda 0.02 epsilon 0.01 PCC 0.62780 MSE 0.01752
+A0101 lambda 0.02 epsilon 0.04 PCC 0.55790 MSE 0.02024
+A0101 lambda 0.02 epsilon 0.08 PCC 0.45175 MSE 0.02463
+A0101 lambda 0.08 epsilon 0.01 PCC 0.62779 MSE 0.01751
+A0101 lambda 0.08 epsilon 0.04 PCC 0.55795 MSE 0.02024
+A0101 lambda 0.08 epsilon 0.08 PCC 0.45170 MSE 0.02463
+A0101 lambda 0.1 epsilon 0.01 PCC 0.62780 MSE 0.01751
+A0101 lambda 0.1 epsilon 0.04 PCC 0.55794 MSE 0.02023
+A0101 lambda 0.1 epsilon 0.08 PCC 0.45170 MSE 0.02463
+
+Best model for allele A0101 :  lambda 0.02 epsilon 0.01 with correlation 0.62780
+
+Final prediciton for allele:A0101; PCC 0.62780 MSE 0.01752
+A0202 lambda 0.02 epsilon 0.01 PCC 0.75506 MSE 0.03919
+A0202 lambda 0.02 epsilon 0.04 PCC 0.73295 MSE 0.04401
+A0202 lambda 0.02 epsilon 0.08 PCC 0.69700 MSE 0.05153
+A0202 lambda 0.08 epsilon 0.01 PCC 0.75507 MSE 0.03918
+A0202 lambda 0.08 epsilon 0.04 PCC 0.73296 MSE 0.04400
+A0202 lambda 0.08 epsilon 0.08 PCC 0.69700 MSE 0.05152
+A0202 lambda 0.1 epsilon 0.01 PCC 0.75508 MSE 0.03918
+A0202 lambda 0.1 epsilon 0.04 PCC 0.73295 MSE 0.04400
+A0202 lambda 0.1 epsilon 0.08 PCC 0.69701 MSE 0.05152
+
+Best model for allele A0202 :  lambda 0.1 epsilon 0.01 with correlation 0.75508
+
+Final prediciton for allele:A0202; PCC 0.75508 MSE 0.03918
+A2402 lambda 0.02 epsilon 0.01 PCC 0.55610 MSE 0.06355
+A2402 lambda 0.02 epsilon 0.04 PCC 0.56089 MSE 0.07794
+A2402 lambda 0.02 epsilon 0.08 PCC 0.53284 MSE 0.09865
+A2402 lambda 0.08 epsilon 0.01 PCC 0.55598 MSE 0.06345
+A2402 lambda 0.08 epsilon 0.04 PCC 0.56084 MSE 0.07749
+A2402 lambda 0.08 epsilon 0.08 PCC 0.53323 MSE 0.09744
+A2402 lambda 0.1 epsilon 0.01 PCC 0.55598 MSE 0.06341
+A2402 lambda 0.1 epsilon 0.04 PCC 0.56083 MSE 0.07735
+A2402 lambda 0.1 epsilon 0.08 PCC 0.53339 MSE 0.09705
+
+Best model for allele A2402 :  lambda 0.02 epsilon 0.04 with correlation 0.56089
+
+Final prediciton for allele:A2402; PCC 0.56089 MSE 0.07794
+A3001 lambda 0.02 epsilon 0.01 PCC 0.63389 MSE 0.02935
+A3001 lambda 0.02 epsilon 0.04 PCC 0.60957 MSE 0.03265
+A3001 lambda 0.02 epsilon 0.08 PCC 0.59752 MSE 0.03720
+A3001 lambda 0.08 epsilon 0.01 PCC 0.63394 MSE 0.02935
+A3001 lambda 0.08 epsilon 0.04 PCC 0.60959 MSE 0.03263
+A3001 lambda 0.08 epsilon 0.08 PCC 0.59754 MSE 0.03719
+A3001 lambda 0.1 epsilon 0.01 PCC 0.63392 MSE 0.02934
+A3001 lambda 0.1 epsilon 0.04 PCC 0.60958 MSE 0.03263
+A3001 lambda 0.1 epsilon 0.08 PCC 0.59756 MSE 0.03718
+
+Best model for allele A3001 :  lambda 0.08 epsilon 0.01 with correlation 0.63394
+
+Final prediciton for allele:A3001; PCC 0.63394 MSE 0.02935
+A3101 lambda 0.02 epsilon 0.01 PCC 0.74605 MSE 0.02962
+A3101 lambda 0.02 epsilon 0.04 PCC 0.72407 MSE 0.03315
+A3101 lambda 0.02 epsilon 0.08 PCC 0.68720 MSE 0.03927
+A3101 lambda 0.08 epsilon 0.01 PCC 0.74605 MSE 0.02962
+A3101 lambda 0.08 epsilon 0.04 PCC 0.72407 MSE 0.03315
+A3101 lambda 0.08 epsilon 0.08 PCC 0.68718 MSE 0.03927
+A3101 lambda 0.1 epsilon 0.01 PCC 0.74606 MSE 0.02962
+A3101 lambda 0.1 epsilon 0.04 PCC 0.72407 MSE 0.03315
+A3101 lambda 0.1 epsilon 0.08 PCC 0.68719 MSE 0.03927
+
+Best model for allele A3101 :  lambda 0.1 epsilon 0.01 with correlation 0.74606
+
+Final prediciton for allele:A3101; PCC 0.74606 MSE 0.02962
+A6901 lambda 0.02 epsilon 0.01 PCC 0.48612 MSE 0.02564
+A6901 lambda 0.02 epsilon 0.04 PCC 0.45929 MSE 0.02668
+A6901 lambda 0.02 epsilon 0.08 PCC 0.41551 MSE 0.02976
+A6901 lambda 0.08 epsilon 0.01 PCC 0.48611 MSE 0.02564
+A6901 lambda 0.08 epsilon 0.04 PCC 0.45927 MSE 0.02668
+A6901 lambda 0.08 epsilon 0.08 PCC 0.41550 MSE 0.02976
+A6901 lambda 0.1 epsilon 0.01 PCC 0.48615 MSE 0.02563
+A6901 lambda 0.1 epsilon 0.04 PCC 0.45933 MSE 0.02668
+A6901 lambda 0.1 epsilon 0.08 PCC 0.41549 MSE 0.02976
+
+Best model for allele A6901 :  lambda 0.1 epsilon 0.01 with correlation 0.48615
+
+Final prediciton for allele:A6901; PCC 0.48615 MSE 0.02563
+B0801 lambda 0.02 epsilon 0.01 PCC 0.38396 MSE 0.00928
+B0801 lambda 0.02 epsilon 0.04 PCC 0.33058 MSE 0.01003
+B0801 lambda 0.02 epsilon 0.08 PCC 0.29255 MSE 0.01115
+B0801 lambda 0.08 epsilon 0.01 PCC 0.38405 MSE 0.00928
+B0801 lambda 0.08 epsilon 0.04 PCC 0.33065 MSE 0.01002
+B0801 lambda 0.08 epsilon 0.08 PCC 0.29254 MSE 0.01115
+B0801 lambda 0.1 epsilon 0.01 PCC 0.38402 MSE 0.00928
+B0801 lambda 0.1 epsilon 0.04 PCC 0.33069 MSE 0.01002
+B0801 lambda 0.1 epsilon 0.08 PCC 0.29258 MSE 0.01115
+
+Best model for allele B0801 :  lambda 0.08 epsilon 0.01 with correlation 0.38405
+
+Final prediciton for allele:B0801; PCC 0.38405 MSE 0.00928
+B3501 lambda 0.02 epsilon 0.01 PCC 0.60537 MSE 0.04713
+B3501 lambda 0.02 epsilon 0.04 PCC 0.58586 MSE 0.05012
+B3501 lambda 0.02 epsilon 0.08 PCC 0.56091 MSE 0.05535
+B3501 lambda 0.08 epsilon 0.01 PCC 0.60540 MSE 0.04712
+B3501 lambda 0.08 epsilon 0.04 PCC 0.58587 MSE 0.05011
+B3501 lambda 0.08 epsilon 0.08 PCC 0.56091 MSE 0.05534
+B3501 lambda 0.1 epsilon 0.01 PCC 0.60541 MSE 0.04712
+B3501 lambda 0.1 epsilon 0.04 PCC 0.58586 MSE 0.05011
+B3501 lambda 0.1 epsilon 0.08 PCC 0.56091 MSE 0.05534
+
+Best model for allele B3501 :  lambda 0.1 epsilon 0.01 with correlation 0.60541
+
+Final prediciton for allele:B3501; PCC 0.60541 MSE 0.04712
+B4403 lambda 0.02 epsilon 0.01 PCC 0.63519 MSE 0.02180
+B4403 lambda 0.02 epsilon 0.04 PCC 0.66322 MSE 0.02101
+B4403 lambda 0.02 epsilon 0.08 PCC 0.66457 MSE 0.02149
+B4403 lambda 0.08 epsilon 0.01 PCC 0.63446 MSE 0.02174
+B4403 lambda 0.08 epsilon 0.04 PCC 0.66235 MSE 0.02082
+B4403 lambda 0.08 epsilon 0.08 PCC 0.66295 MSE 0.02114
+B4403 lambda 0.1 epsilon 0.01 PCC 0.63418 MSE 0.02173
+B4403 lambda 0.1 epsilon 0.04 PCC 0.66200 MSE 0.02077
+B4403 lambda 0.1 epsilon 0.08 PCC 0.66237 MSE 0.02105
+
+Best model for allele B4403 :  lambda 0.02 epsilon 0.08 with correlation 0.66457
+
+Final prediciton for allele:B4403; PCC 0.66457 MSE 0.02149
+B5801 lambda 0.02 epsilon 0.01 PCC 0.67645 MSE 0.01986
+B5801 lambda 0.02 epsilon 0.04 PCC 0.66603 MSE 0.02057
+B5801 lambda 0.02 epsilon 0.08 PCC 0.65189 MSE 0.02347
+B5801 lambda 0.08 epsilon 0.01 PCC 0.67648 MSE 0.01985
+B5801 lambda 0.08 epsilon 0.04 PCC 0.66602 MSE 0.02057
+B5801 lambda 0.08 epsilon 0.08 PCC 0.65189 MSE 0.02347
+B5801 lambda 0.1 epsilon 0.01 PCC 0.67646 MSE 0.01985
+B5801 lambda 0.1 epsilon 0.04 PCC 0.66606 MSE 0.02056
+B5801 lambda 0.1 epsilon 0.08 PCC 0.65190 MSE 0.02346
+
+Best model for allele B5801 :  lambda 0.08 epsilon 0.01 with correlation 0.67648
+
+Final prediciton for allele:B5801; PCC 0.67648 MSE 0.01985
+A0201 lambda 0.02 epsilon 0.01 PCC 0.79402 MSE 0.03504
+A0201 lambda 0.02 epsilon 0.04 PCC 0.76759 MSE 0.03997
+A0201 lambda 0.02 epsilon 0.08 PCC 0.72097 MSE 0.05010
+A0201 lambda 0.08 epsilon 0.01 PCC 0.79401 MSE 0.03504
+A0201 lambda 0.08 epsilon 0.04 PCC 0.76759 MSE 0.03996
+A0201 lambda 0.08 epsilon 0.08 PCC 0.72097 MSE 0.05010
+A0201 lambda 0.1 epsilon 0.01 PCC 0.79401 MSE 0.03504
+A0201 lambda 0.1 epsilon 0.04 PCC 0.76759 MSE 0.03997
+A0201 lambda 0.1 epsilon 0.08 PCC 0.72096 MSE 0.05010
+
+Best model for allele A0201 :  lambda 0.02 epsilon 0.01 with correlation 0.79402
+
+Final prediciton for allele:A0201; PCC 0.79402 MSE 0.03504
+A2301 lambda 0.02 epsilon 0.01 PCC 0.55860 MSE 0.07210
+A2301 lambda 0.02 epsilon 0.04 PCC 0.52026 MSE 0.08752
+A2301 lambda 0.02 epsilon 0.08 PCC 0.51307 MSE 0.09448
+A2301 lambda 0.08 epsilon 0.01 PCC 0.55818 MSE 0.07205
+A2301 lambda 0.08 epsilon 0.04 PCC 0.51867 MSE 0.08690
+A2301 lambda 0.08 epsilon 0.08 PCC 0.50985 MSE 0.09310
+A2301 lambda 0.1 epsilon 0.01 PCC 0.55799 MSE 0.07204
+A2301 lambda 0.1 epsilon 0.04 PCC 0.51812 MSE 0.08671
+A2301 lambda 0.1 epsilon 0.08 PCC 0.50860 MSE 0.09276
+
+Best model for allele A2301 :  lambda 0.02 epsilon 0.01 with correlation 0.55860
+
+Final prediciton for allele:A2301; PCC 0.55860 MSE 0.07210
+A2403 lambda 0.02 epsilon 0.01 PCC 0.43549 MSE 0.06479
+A2403 lambda 0.02 epsilon 0.04 PCC 0.37636 MSE 0.09124
+A2403 lambda 0.02 epsilon 0.08 PCC 0.34780 MSE 0.11022
+A2403 lambda 0.08 epsilon 0.01 PCC 0.43569 MSE 0.06467
+A2403 lambda 0.08 epsilon 0.04 PCC 0.37721 MSE 0.09071
+A2403 lambda 0.08 epsilon 0.08 PCC 0.34925 MSE 0.10912
+A2403 lambda 0.1 epsilon 0.01 PCC 0.43578 MSE 0.06463
+A2403 lambda 0.1 epsilon 0.04 PCC 0.37747 MSE 0.09054
+A2403 lambda 0.1 epsilon 0.08 PCC 0.34974 MSE 0.10877
+
+Best model for allele A2403 :  lambda 0.1 epsilon 0.01 with correlation 0.43578
+
+Final prediciton for allele:A2403; PCC 0.43578 MSE 0.06463
+A3002 lambda 0.02 epsilon 0.01 PCC 0.46080 MSE 0.06526
+A3002 lambda 0.02 epsilon 0.04 PCC 0.41339 MSE 0.08304
+A3002 lambda 0.02 epsilon 0.08 PCC 0.39101 MSE 0.09369
+A3002 lambda 0.08 epsilon 0.01 PCC 0.46104 MSE 0.06512
+A3002 lambda 0.08 epsilon 0.04 PCC 0.41474 MSE 0.08205
+A3002 lambda 0.08 epsilon 0.08 PCC 0.39372 MSE 0.09138
+A3002 lambda 0.1 epsilon 0.01 PCC 0.46111 MSE 0.06507
+A3002 lambda 0.1 epsilon 0.04 PCC 0.41516 MSE 0.08174
+A3002 lambda 0.1 epsilon 0.08 PCC 0.39463 MSE 0.09066
+
+Best model for allele A3002 :  lambda 0.1 epsilon 0.01 with correlation 0.46111
+
+Final prediciton for allele:A3002; PCC 0.46111 MSE 0.06507
+A6801 lambda 0.02 epsilon 0.01 PCC 0.75267 MSE 0.03770
+A6801 lambda 0.02 epsilon 0.04 PCC 0.72298 MSE 0.04198
+A6801 lambda 0.02 epsilon 0.08 PCC 0.66274 MSE 0.05292
+A6801 lambda 0.08 epsilon 0.01 PCC 0.75264 MSE 0.03770
+A6801 lambda 0.08 epsilon 0.04 PCC 0.72292 MSE 0.04198
+A6801 lambda 0.08 epsilon 0.08 PCC 0.66264 MSE 0.05293
+A6801 lambda 0.1 epsilon 0.01 PCC 0.75263 MSE 0.03770
+A6801 lambda 0.1 epsilon 0.04 PCC 0.72290 MSE 0.04198
+A6801 lambda 0.1 epsilon 0.08 PCC 0.66260 MSE 0.05293
+
+Best model for allele A6801 :  lambda 0.02 epsilon 0.01 with correlation 0.75267
+
+Final prediciton for allele:A6801; PCC 0.75267 MSE 0.03770
+B0702 lambda 0.02 epsilon 0.01 PCC 0.74408 MSE 0.02313
+B0702 lambda 0.02 epsilon 0.04 PCC 0.72483 MSE 0.02461
+B0702 lambda 0.02 epsilon 0.08 PCC 0.68134 MSE 0.02855
+B0702 lambda 0.08 epsilon 0.01 PCC 0.74406 MSE 0.02313
+B0702 lambda 0.08 epsilon 0.04 PCC 0.72484 MSE 0.02461
+B0702 lambda 0.08 epsilon 0.08 PCC 0.68135 MSE 0.02855
+B0702 lambda 0.1 epsilon 0.01 PCC 0.74405 MSE 0.02313
+B0702 lambda 0.1 epsilon 0.04 PCC 0.72483 MSE 0.02461
+B0702 lambda 0.1 epsilon 0.08 PCC 0.68134 MSE 0.02855
+
+Best model for allele B0702 :  lambda 0.02 epsilon 0.01 with correlation 0.74408
+
+Final prediciton for allele:B0702; PCC 0.74408 MSE 0.02313
+B2705 lambda 0.02 epsilon 0.01 PCC 0.65637 MSE 0.00926
+B2705 lambda 0.02 epsilon 0.04 PCC 0.63470 MSE 0.00980
+B2705 lambda 0.02 epsilon 0.08 PCC 0.61124 MSE 0.01103
+B2705 lambda 0.08 epsilon 0.01 PCC 0.65640 MSE 0.00926
+B2705 lambda 0.08 epsilon 0.04 PCC 0.63469 MSE 0.00980
+B2705 lambda 0.08 epsilon 0.08 PCC 0.61121 MSE 0.01103
+B2705 lambda 0.1 epsilon 0.01 PCC 0.65635 MSE 0.00926
+B2705 lambda 0.1 epsilon 0.04 PCC 0.63471 MSE 0.00980
+B2705 lambda 0.1 epsilon 0.08 PCC 0.61126 MSE 0.01103
+
+Best model for allele B2705 :  lambda 0.08 epsilon 0.01 with correlation 0.65640
+
+Final prediciton for allele:B2705; PCC 0.65640 MSE 0.00926
+B4402 lambda 0.02 epsilon 0.01 PCC 0.58843 MSE 0.02432
+B4402 lambda 0.02 epsilon 0.04 PCC 0.55324 MSE 0.03130
+B4402 lambda 0.02 epsilon 0.08 PCC 0.53878 MSE 0.03571
+B4402 lambda 0.08 epsilon 0.01 PCC 0.58673 MSE 0.02431
+B4402 lambda 0.08 epsilon 0.04 PCC 0.54960 MSE 0.03105
+B4402 lambda 0.08 epsilon 0.08 PCC 0.53252 MSE 0.03507
+B4402 lambda 0.1 epsilon 0.01 PCC 0.58624 MSE 0.02431
+B4402 lambda 0.1 epsilon 0.04 PCC 0.54833 MSE 0.03098
+B4402 lambda 0.1 epsilon 0.08 PCC 0.53041 MSE 0.03490
+
+Best model for allele B4402 :  lambda 0.02 epsilon 0.01 with correlation 0.58843
+
+Final prediciton for allele:B4402; PCC 0.58843 MSE 0.02432
+B5701 lambda 0.02 epsilon 0.01 PCC 0.34176 MSE 0.04332
+B5701 lambda 0.02 epsilon 0.04 PCC 0.40011 MSE 0.04198
+B5701 lambda 0.02 epsilon 0.08 PCC 0.40431 MSE 0.04447
+B5701 lambda 0.08 epsilon 0.01 PCC 0.34447 MSE 0.04294
+B5701 lambda 0.08 epsilon 0.04 PCC 0.40982 MSE 0.04063
+B5701 lambda 0.08 epsilon 0.08 PCC 0.42053 MSE 0.04152
+B5701 lambda 0.1 epsilon 0.01 PCC 0.34528 MSE 0.04282
+B5701 lambda 0.1 epsilon 0.04 PCC 0.41230 MSE 0.04029
+B5701 lambda 0.1 epsilon 0.08 PCC 0.42376 MSE 0.04090
+
+Best model for allele B5701 :  lambda 0.1 epsilon 0.08 with correlation 0.42376
+
+Final prediciton for allele:B5701; PCC 0.42376 MSE 0.04090
